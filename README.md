@@ -22,7 +22,7 @@
 ### Prerequisites
 
 - Visual Studio with C# support
-- SplashKit SDK (Installation instructions [here](https://www.splashkit.io/docs/installation/))
+- SplashKit SDK (Installation instructions [here](https://splashkit.io/installation/))
 
 ### Installation
 
